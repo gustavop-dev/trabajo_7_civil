@@ -168,11 +168,7 @@ body {
 /* Sections */
 .section {
     padding: 5rem 0;
-}
-
-.section-dark {
-    background: var(--dark-bg);
-    color: var(--text-white);
+    background: #ffffff;
 }
 
 .section-green {
