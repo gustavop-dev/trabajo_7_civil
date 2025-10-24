@@ -32,7 +32,7 @@ body {
     position: relative;
     height: 100vh;
     background: linear-gradient(135deg, rgba(37, 99, 235, 0.9), rgba(30, 64, 175, 0.9)),
-                url('[https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=1600&q=80'](https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=1600&q=80')) center/cover;
+                url('https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=1600&q=80') center/cover;
     display: flex;
     align-items: center;
     justify-content: center;
